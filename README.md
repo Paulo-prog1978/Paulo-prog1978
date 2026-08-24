@@ -1,92 +1,116 @@
-💰 Sistema de Controle de Contas
-Sistema desenvolvido em Python para gerenciamento de contas financeiras, utilizando SQLite como banco de dados.
+# Olá! Eu sou Paulo Henrique 👋
 
-O projeto foi desenvolvido com foco no aprendizado e aplicação prática de conceitos de programação, banco de dados, CRUD e organização de código.
+Profissional em transição e desenvolvimento de carreira na área de Tecnologia, com foco em **Desenvolvimento Backend, Análise de Sistemas e Engenharia de Software**.
 
-🎯 Objetivo
-Criar uma aplicação simples capaz de controlar contas financeiras, permitindo cadastrar, consultar, atualizar e excluir registros, além de acompanhar contas pagas e pendentes.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente sigo ampliando meus conhecimentos por meio da pós-graduação em **Engenharia de Software**.
 
-🚀 Funcionalidades
-Cadastro de contas
-Listagem de contas
-Busca por ID
-Controle de status da conta
-Marcação de contas como pagas
-Exclusão de contas
-Consulta de contas pendentes
-Cálculo do total de contas pendentes
-Cálculo do total de contas pagas
-Persistência dos dados utilizando SQLite
-🛠️ Tecnologias utilizadas
-Python
-SQLite
-SQL
-Vai embora
-GitHub
-📚 Conceitos aplicados
-CRUD
-Programação Orientada a Objetos
-Funções
-Estruturas condicionais
-Estruturas de repetição
-Tratamento de exceções
-Banco de dados relacional
-SQL
-Separação de responsabilidades
-Persistência de dados
-📂 Estrutura do projeto
-sistema-controle-contas/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── main.py
-├── database.py
-├── conta.py
-├── conta_service.py
-│
-└── tests/
-    └── test_conta.py
-▶️ Como executar
-1. Clone o repositório
-git clone URL_DO_SEU_REPOSITORIO
-2. Acesse uma massa
-cd sistema-controle-contas
-3. Execute o sistema
-python main.py
-O banco de dados será criado automaticamente na primeira execução.sistema_contas.db
+Minha trajetória profissional também inclui experiências em gestão, logística e ambiente corporativo, que contribuíram para o desenvolvimento de competências como resolução de problemas, organização de processos, trabalho em equipe e visão analítica.
 
-💻 Exemplo
-Ao executar o sistema, será apresentado um menu:
+Atualmente, estou construindo projetos práticos para consolidar meus conhecimentos e evoluir como profissional de tecnologia.
 
-=============================================
-      SISTEMA DE CONTROLE DE CONTAS
-=============================================
-1 - Cadastrar conta
-2 - Listar contas
-3 - Buscar conta
-4 - Marcar conta como paga
-5 - Excluir conta
-6 - Listar contas pendentes
-7 - Resumo financeiro
-0 - Sair
-=============================================
-🔎 Próximas melhorias
-Algumas funcionalidades planejadas para futuras versões:
+---
 
-Validação de datas
-Edição de contas
-Filtros por categoria
-Relatórios financeiros
-Interface gráfica
-API REST
-Autenticação de usuários
-Testes automatizados
-👨 💻 Autor
-Paulo Henrique de Oliveira
+## 🚀 Tecnologias e ferramentas
 
-Projeto desenvolvido como parte do meu portfólio de desenvolvimento e análise de sistemas.
+### Backend e programação
 
+- Python
+- FastAPI
+- APIs REST
+- SQLAlchemy
 
+### Banco de dados
 
+- SQL
+- SQLite
 
+### Qualidade e testes
+
+- Pytest
+- Testes automatizados
+- Validação de dados
+- Tratamento de erros
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Swagger / OpenAPI
+
+---
+
+## 📌 Projetos em destaque
+
+### 💰 API de Gestão Financeira
+
+API REST desenvolvida em **Python com FastAPI** para gerenciamento de clientes, contas e transações financeiras.
+
+Principais recursos:
+
+- CRUD de clientes
+- CRUD de contas
+- CRUD de transações
+- Consulta de saldo por cliente
+- Validação de dados com Pydantic
+- Tratamento de erros HTTP
+- Persistência de dados com SQLAlchemy
+- Testes automatizados com Pytest
+- Documentação interativa com Swagger
+
+🔗 Repositório:
+
+https://github.com/Paulo-prog1978/api-gestao-financeira
+
+---
+
+### 💵 Sistema de Controle de Contas
+
+Sistema desenvolvido em **Python com SQLite** para gerenciamento de contas financeiras.
+
+O projeto foi desenvolvido para praticar conceitos como:
+
+- Programação em Python
+- CRUD
+- Persistência de dados
+- SQLite
+- Organização e modularização do código
+- Git e GitHub
+
+🔗 Repositório:
+
+https://github.com/Paulo-prog1978/sistema-controle-contas
+
+---
+
+## 📚 Atualmente estudando
+
+Estou aprofundando meus conhecimentos em:
+
+- Engenharia de Software
+- Desenvolvimento Backend
+- Python
+- APIs REST
+- Banco de Dados
+- PostgreSQL
+- Docker
+- Testes automatizados
+- Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades na área de Tecnologia, especialmente em posições como **Analista de Sistemas Júnior, Desenvolvedor Backend Júnior e áreas relacionadas ao desenvolvimento de software**.
+
+Meu objetivo é aplicar minha experiência profissional anterior em conjunto com minha formação em tecnologia, contribuindo com capacidade analítica, resolução de problemas, organização e aprendizado contínuo.
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn:  
+www.linkedin.com/in/paulo-oliveira-029061268
+
+💻 GitHub:  
+https://github.com/Paulo-prog1978
